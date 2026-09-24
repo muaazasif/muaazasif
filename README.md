@@ -111,7 +111,7 @@
 
 <div align="center">
 
-<img src="https://github.com/muaazasif/muaazasif/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/muaazasif/muaazasif/output/github-contribution-grid-snake.svg" />
 
 </div>
 
